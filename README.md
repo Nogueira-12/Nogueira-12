@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Spotify](https://novatorem-nogueira-12.vercel.app/api/spotify)](https://open.spotify.com/user/313cdxsfvw337pdyifodge7vpd5e)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=313cdxsfvw337pdyifodge7vpd5e)](https://open.spotify.com/user/313cdxsfvw337pdyifodge7vpd5e)
 
 </div>
 
