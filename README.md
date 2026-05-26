@@ -59,6 +59,7 @@ const tomas = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5).
 ![Ruby](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
 ### Databases
@@ -101,13 +102,13 @@ const tomas = {
 
 > Capstone project graded **20/20**, built entirely from scratch.
 
-- 🏟️ **Internal Club Management** — members, roles, departments, finances
-- 🌐 **Integrated Social Network** — posts, interactions, notifications between club members
+- 🏟️ **Internal Club Management** — members, roles, infastructuress, finances, scheduled practice times, etc...
+- 🌐 **Integrated Social Network** — posts, interactions (save, report, like, comment, etc.)
 - 🔐 **Role-based Access Control** — admins, staff, athletes, members
 - 📊 **Dashboard & Analytics** — real-time stats for managers
 - 📱 **Responsive Design** — works across devices
 
-**Stack:** `PHP` · `MySQL` · `HTML/CSS` · `JavaScript`
+**Stack:** `PHP` · `MySQL` · `HTML/CSS` · `JavaScript` . `Ruby on Rails` . `WSL`
 
 ---
 
@@ -119,6 +120,7 @@ const tomas = {
 - 📋 Training course listings and programme management
 - 🔒 Safety & compliance information portal
 - 📱 Modern, accessible, responsive layout
+- 📜 Quick and efficient participant registration
 
 **Status:** `🟡 In Development`
 
