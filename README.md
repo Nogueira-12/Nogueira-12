@@ -25,9 +25,6 @@
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=313cdxsfvw337pdyifodge7vpd5e)](https://open.spotify.com/user/313cdxsfvw337pdyifodge7vpd5e)
 
 </div>
-
-> To enable the live widget: deploy [novatorem](https://github.com/novatorem/novatorem) with your Spotify credentials and replace the URL above with your own deployment link.
-
 ---
 
 ## 🧑‍💻 About Me
