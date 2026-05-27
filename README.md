@@ -127,7 +127,8 @@ const tomas = {
 ---
 
 ## 📈 GitHub Stats
-
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nogueira-12&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
