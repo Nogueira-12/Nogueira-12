@@ -170,7 +170,7 @@ const tomas = {
 If you want to collaborate, offer an opportunity, or just talk tech — don't hesitate to reach out.
 
 [![Send Email](https://img.shields.io/badge/📧%20Send%20Email-tomassn2008%40gmail.com-EA4335?style=for-the-badge)](mailto:tomassn2008@gmail.com)
-[![Spotify](https://img.shields.io/badge/🎵%20Spotify-Listen%20Along-1DB954?style=for-the-badge)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://img.shields.io/badge/🎵%20Spotify-Listen%20Along-1DB954?style=for-the-badge)](https://open.spotify.com/user/313cdxsfvw337pdyifodge7vpd5e)
 
 </div>
 
