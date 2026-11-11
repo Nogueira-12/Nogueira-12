@@ -139,9 +139,18 @@ const tomas = {
 
 ### 🚗 CarHelp — Android App
 
-> Android app currently being prepared for its first release on the Google Play Store.
+> Android app that helps drivers understand whether their mechanic is treating them fairly — built for people who own a car but don't know much about mechanics. Snap a photo of a quote or a dashboard warning light, or record a noise, and AI explains the likely cause, urgency, typical cost and what to ask the mechanic.
 
-**Status:** `🟡 In Development`
+- 💶 **Fair quote check** — verdict, price range and negotiation tips
+- 🚨 **Warning lights, noises & OBD codes** — plain-language explanations
+- 🚗 **Garage** — service history with invoices, reminders (service, inspection, insurance, road tax) and a PDF report for resale
+- 👨‍👩‍👧 **Family car sharing**
+- 🌍 Available in Portuguese and English
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-CarHelp-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tomas.car_help)
+[![Website](https://img.shields.io/badge/Website-carhelp.pt-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://carhelp.pt)
+
+**Status:** `🟢 Published on Google Play`
 
 ---
 
