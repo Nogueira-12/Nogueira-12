@@ -4,14 +4,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tomás%20Nogueira&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=17+y%2Fo+Developer+from+Portugal+%F0%9F%87%B5%F0%9F%87%B9;Full-Stack+Web+%26+Systems+Builder;Incoming+CS+Engineering+Student;Future+AI+%26+ML+Engineer;Turning+ideas+into+working+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=18+y%2Fo+Developer+from+Portugal+%F0%9F%87%B5%F0%9F%87%B9;Full-Stack+Web+%26+Systems+Builder;CS+Engineering+Student+%40+ESTG;Future+AI+%26+ML+Engineer;Turning+ideas+into+working+products)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Contact badges -->
 [![Email](https://img.shields.io/badge/Email-tomassn2008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomassn2008@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nogueira--12.github.io-A78BFA?style=for-the-badge&logo=githubpages&logoColor=white)](https://nogueira-12.github.io/Portfolio/)
 [![Portugal](https://img.shields.io/badge/Based%20in-Portugal-006600?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Portugal)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/313cdxsfvw337pdyifodge7vpd5e)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-4ade80?style=for-the-badge&logo=statuspage&logoColor=white)]()
 
 </div>
@@ -25,13 +26,14 @@
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=313cdxsfvw337pdyifodge7vpd5e)](https://open.spotify.com/user/313cdxsfvw337pdyifodge7vpd5e)
 
 </div>
+
 ---
 
 ## 🧑‍💻 About Me
 
-Hey! I'm **Tomás Nogueira**, a 18-year-old developer from Portugal, currently finishing my **Professional Programming Course** (12th grade) and preparing to enter a **Computer Science Engineering** degree — with a long-term focus on **Artificial Intelligence & Machine Learning**.
+Hey! I'm **Tomás Nogueira**, an 18-year-old developer from Portugal, currently studying **Computer Science Engineering** at **ESTG** (Escola Superior de Tecnologia e Gestão) — with a long-term focus on **Artificial Intelligence & Machine Learning**.
 
-I've been coding seriously for years and recently completed my final project (**PAP**) — a **full-stack club management web app** with an integrated social network, which scored a perfect **20/20**. I graduated my course with an **18/20 average**.
+Before university, I completed the **Professional Programming Course** (Management and Programming of IT Systems) with an **18/20 average**. My final project (**PAP**) — a **full-stack club management web app** with an integrated social network — scored a perfect **20/20**. I've since completed two internships: a mandatory work placement at an IT company in Portugal and an **Erasmus+** internship in Italy as a full-stack web developer.
 
 I love building things that are actually useful. I care deeply about clean architecture, intuitive UX, and writing code that other developers can work with.
 
@@ -39,8 +41,8 @@ I love building things that are actually useful. I care deeply about clean archi
 const tomas = {
   age: 18,
   location: "Portugal 🇵🇹",
-  education: "Professional Programming Course (12th Grade)",
-  nextStep: "BSc in Computer Science Engineering",
+  education: "BSc in Computer Science Engineering @ ESTG",
+  previousEducation: "Professional Programming Course (18/20)",
   specialization: "Artificial Intelligence & Machine Learning 🤖",
   currentlyLearning: ["System Design", "Algorithms & DS", "Advanced PHP"],
   interests: ["Web Apps", "Backend Systems", "AI/ML", "Open Source", "Product Building"],
@@ -54,13 +56,14 @@ const tomas = {
 
 <div align="center">
 
-### Languages
+### Languages & Frameworks
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -90,9 +93,17 @@ const tomas = {
 |---|---|---|
 | **PAP — Final Project** | ⭐ 20 / 20 | Full-stack club management app + social network |
 | **Course Average** | ⭐ 18 / 20 | Professional Programming Course |
+| **Internships** | ✅ Completed | Work placement in Portugal + Erasmus+ in Italy |
 | **Web App Complexity** | 🔥 High | Multi-role auth, DB design, real-time features |
 
 </div>
+
+---
+
+## 💼 Experience
+
+- 🇮🇹 **Erasmus+ Internship — Full-Stack Web Developer** · Semanto / Scuola Edile di Arezzo (Italy) — built and delivered a WordPress website for a construction training institution.
+- 🏢 **Work Placement (FCT, 200h)** · iS - Intelligent Solutions (Maia, Portugal) — database algorithms and data extraction for the automotive, banking and heavy equipment sectors.
 
 ---
 
@@ -102,25 +113,33 @@ const tomas = {
 
 > Capstone project graded **20/20**, built entirely from scratch.
 
-- 🏟️ **Internal Club Management** — members, roles, infastructuress, finances, scheduled practice times, etc...
+- 🏟️ **Internal Club Management** — members, roles, infrastructures, finances, scheduled practice times, etc.
 - 🌐 **Integrated Social Network** — posts, interactions (save, report, like, comment, etc.)
 - 🔐 **Role-based Access Control** — admins, staff, athletes, members
 - 📊 **Dashboard & Analytics** — real-time stats for managers
 - 📱 **Responsive Design** — works across devices
 
-**Stack:** `PHP` · `MySQL` · `HTML/CSS` · `JavaScript` . `Ruby on Rails` . `WSL`
+**Stack:** `PHP` · `MySQL` · `HTML/CSS` · `JavaScript` · `Ruby on Rails` · `WSL`
 
 ---
 
-### 🏗️ Scuola Edile — Website (In Progress)
+### 🏗️ Scuola Edile — Website (Delivered)
 
-> Redesigning the official website for **Scuola Edile - Centro per La Formazione e Sicurezza in Edilizia**, an Italian institution focused on construction training and workplace safety.
+> Website for **Scuola Edile - Centro per La Formazione e Sicurezza in Edilizia**, an Italian institution focused on construction training and workplace safety. Built during my Erasmus+ internship.
 
-- 🎨 Full redesign from the ground up
 - 📋 Training course listings and programme management
-- 🔒 Safety & compliance information portal
-- 📱 Modern, accessible, responsive layout
+- 🔒 Safety & compliance information
+- 📱 Responsive layout
 - 📜 Quick and efficient participant registration
+
+**Stack:** `WordPress`
+**Status:** `🟢 Delivered` — the site is temporarily offline while the client makes changes.
+
+---
+
+### 🚗 CarHelp — Android App
+
+> Android app currently being prepared for its first release on the Google Play Store.
 
 **Status:** `🟡 In Development`
 
@@ -128,7 +147,7 @@ const tomas = {
 
 ## 📈 GitHub Stats
 <div align="center">
-  
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nogueira-12&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
@@ -149,7 +168,7 @@ const tomas = {
 
 ## 📚 What's Next
 
-- 🎓 Entering **Computer Science Engineering** at university
+- 🎓 Continuing my **Computer Science Engineering** degree at ESTG
 - 🤖 Long-term specialization in **Artificial Intelligence & Machine Learning**
 - 🔧 Deepening knowledge in **algorithms, system design, and software architecture**
 - 🌍 Looking to contribute to **open source** and **real-world products**
