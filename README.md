@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 About Me
 
-Hey! I'm **Tomás Nogueira**, a 17-year-old developer from Portugal, currently finishing my **Professional Programming Course** (12th grade) and preparing to enter a **Computer Science Engineering** degree — with a long-term focus on **Artificial Intelligence & Machine Learning**.
+Hey! I'm **Tomás Nogueira**, a 18-year-old developer from Portugal, currently finishing my **Professional Programming Course** (12th grade) and preparing to enter a **Computer Science Engineering** degree — with a long-term focus on **Artificial Intelligence & Machine Learning**.
 
 I've been coding seriously for years and recently completed my final project (**PAP**) — a **full-stack club management web app** with an integrated social network, which scored a perfect **20/20**. I graduated my course with an **18/20 average**.
 
@@ -37,7 +37,7 @@ I love building things that are actually useful. I care deeply about clean archi
 
 ```js
 const tomas = {
-  age: 17,
+  age: 18,
   location: "Portugal 🇵🇹",
   education: "Professional Programming Course (12th Grade)",
   nextStep: "BSc in Computer Science Engineering",
